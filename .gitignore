@@ -1,1 +1,4 @@
 /target
+TASK-*.md
+REPORT*.md
+.build-slot
