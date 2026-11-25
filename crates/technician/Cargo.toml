@@ -1,0 +1,9 @@
+[package]
+name = "areview-technician"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+publish.workspace = true
+
+[dependencies]
+areview-proto = { path = "../proto" }
